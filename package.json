@@ -1,6 +1,6 @@
 {
   "name": "@hjm123/utils-test",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "dist/utilx-cjs.js",
   "module": "dist/utilx-es.js",
@@ -19,5 +19,9 @@
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-node-resolve": "^15.2.3",
     "rollup": "^4.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lethe-river/utils-test.git"
   }
 }
